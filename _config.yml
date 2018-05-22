@@ -22,8 +22,8 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 navigation:
   - name: Curriculum vitae
     url: /
-  - name: Presentation
-    url: /presentation
+  - name: Presentations
+    url: /presentations
   - name: Archive
     url: /archive
   - name: Scholar
