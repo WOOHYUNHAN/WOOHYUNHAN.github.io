@@ -24,10 +24,10 @@ navigation:
     url: /
   - name: About
     url: /about
+  - name: Presentation
+    url: /presentation
   - name: Archive
     url: /archive
-  - name: Tags
-    url: /tags
   - name: Scholar
     url: https://scholar.google.com/citations?user=MvYSFyoAAAAJ&hl=en
 
