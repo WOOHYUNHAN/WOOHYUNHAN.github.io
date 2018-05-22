@@ -1,8 +1,8 @@
 ## Sunghyun Kim  
-Postdoctoral Research Associate at [Materials Design Group](https://wmd-group.github.io)  
-Department of Materials, Imperial College London,  
-Royal School of Mines, Exhibition Road, London, SW7 2AZ, UK  
-:email: [sunghyun.kim@imperial.ac.uk](mailto:sunghyun.kim@imperial.ac.uk) 
-| :house: [frssp.github.io](https://frssp.github.io)
-| :octocat: [frssp](https://github.com/frssp)
-| ![orcid](https://orcid.org/sites/default/files/images/orcid_16x16.png) [0000-0001-5072-6801](https://orcid.org/0000-0001-5072-6801)
+Research Associate at [Theorerical Condensed Matter Physics Group](http://taehae.kaist.ac.kr/)  
+Department of Physics, [Korea Advanced Institute of Science and Technology (KAIST)](http://www.kaist.ac.kr/html/en/index.html)  
+KAIST, 291 Daehak-ro, Yuseong-gu, Daejeon 34141, Republic of Korea  
+| Email_1 [hanwooh@kaist.ac.kr](mailto:hanwooh@kaist.ac.kr)
+| Email_2 [hanwooh@gmail.com](mailto:hanwooh@gmail.com)
+| [frssp](https://github.com/frssp)
+| [Google Scholar](https://scholar.google.com/citations?user=MvYSFyoAAAAJ&hl=en)
