@@ -1,7 +1,5 @@
 ---
-layout: page
-title: CV
-permalink: /cv/
+title: Curriculum Vitae
 ---
 
 {% include_relative cv_md/profile.md %}
