@@ -2,6 +2,9 @@
 
 ### In preparation
 
+1. **W.H. Han**, S. Kim, I.-H. Lee, and K.J. Chang, **"Coexistence of Strong Electron-Phonon Couplings and Flat Band Ferromagnetism in Hole-Doped Boron Kagome Lattices,"** *In preparation*, (2018).
+1. **W.H. Han**, I.-H. Lee, and K.J. Chang, **"Construction of high-dimensional artificial neural network potential for silicon, carbon, and boron,"** *In preparation*, (2018).
+1. I.-H. Lee, **W.H. Han**, J. Lee, and K.J. Chang, **"Gaussian radial basis functions and conformational space annealing for developing atomic energy mappings,"** *In preparation*, (2018).
 
 ### 2018
 
