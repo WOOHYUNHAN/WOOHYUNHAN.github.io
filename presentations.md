@@ -1,6 +1,5 @@
 ---
 title: Presentation
-
 ---
 
 ## 2016
