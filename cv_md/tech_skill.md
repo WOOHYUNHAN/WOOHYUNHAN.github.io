@@ -6,7 +6,7 @@
   [pyTB](http://physics.rutgers.edu/pythtb/), [WannierTools](https://github.com/quanshengwu/wannier_tools), [PhononTB (My own code)](https://github.com/WOOHYUNHAN/phononTB)    
 
 - **Inverse materials design**  
-  [AMADEUS (Ab initio materials design using conformational space annealing](https://www.sciencedirect.com/science/article/pii/S0010465516300261)   
+  [AMADEUS (Ab initio materials design using conformational space annealing)](https://www.sciencedirect.com/science/article/pii/S0010465516300261)   
 
 - **Atomic potential generation using ML algorithm**     
   [aenet (one of the contributors)](http://ann.atomistic.net/Contributors/)    
