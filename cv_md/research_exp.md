@@ -1,11 +1,11 @@
 ## Research experience
 - **Postdoctoral research Associate**, *Sept. 2018 - present*, KAIST, Dajeon, Republic of Korea  
-  *supervised by prof. K. J. Chang*  
+  supervised by prof. K. J. Chang  
 
 - **Research associate (graduate course)**, *July 2010 - Aug. 2018*, KAIST, Daejeon, Republic of Korea  
-  *Advisored by prof. K. J. Chang*  
+  Advisored by prof. K. J. Chang  
   * First-principles calculations and inverse materials design
 
 - **Undergradeuate research participation program**, *Sep. 2011 - Feb. 2012*, KAIST, Daejeon, Republic of Korea  
-   *Advisered by Prof. J. H. Shin*  
+   Advisered by Prof. J. H. Shin  
    * Fabrication and application of slot-waveguid  
