@@ -4,6 +4,8 @@ title: Presentation
 
 ## 2018
 
+1. **W. H. Han**, Sunghyun Kim, In-Ho Lee, and K. J. Chang, [**"Strong electron-phonon coupling and flat band ferromagnetism in hole-doped boron triangular Kagome lattice"**](http://taehae.kaist.ac.kr)(Oral), 2018 Korean Physical Society spring meeting, Daejeon, Korea [Apr, 25-27, 2018]
+1. **W. H. Han**, Sunghyun Kim, In-Ho Lee and K. J. Chang, [**"Prediction of a new phosphorus allotrope with tunable direct band gap and high mobility"**](http://taehae.kaist.ac.kr)(Oral), 2018 APS March meeting, Los Angeles, California, USA [Mar, 5-9, 2018]
 
 ## 2017
 
