@@ -1,8 +1,8 @@
 ## Research experience
-- **Postdoctoral research Associate**, *Sept. 2018 - present*, KAIST, Dajeon, Republic of Korea  
+- **Postdoctoral research associate**, *Sept. 2018 - Present*, KAIST, Dajeon, Republic of Korea  
   Supervised by prof. K. J. Chang  
 
-- **Research associate (graduate course)**, *July 2010 - Aug. 2018*, KAIST, Daejeon, Republic of Korea  
+- **Research associate (graduate course)**, *Mar. 2013 - Aug. 2018*, KAIST, Daejeon, Republic of Korea  
   Advisored by prof. K. J. Chang  
   * First-principles calculations and inverse materials design
 
