@@ -6,10 +6,17 @@ title: Links
 
 1. [**Korea Advanced Institute of Science and Technology (KAIST)**](http://www.kaist.ac.kr/html/en/index.html)
 
+## Crystal symmetry
 
-## First-principles calculations
+1. [**FINDSYM**](http://stokes.byu.edu/iso/findsym.php)
+1. [**Structure converter**](http://www.cryst.ehu.es/cgi-bin/cryst/programs/mcif2vesta/index.php)
 
-1. **Test**
+## Material repository
+
+1. [**Materials project**](https://www.materialsproject.org/)
+1. [**AFLOW**](http://www.aflow.org/aflow_online.html)
+1. [**NOMAD**](https://www.nomad-coe.eu/)
+1. [**OQMD**](http://oqmd.org/)
 
 
 ## Useful tools for paperwork
