@@ -40,5 +40,6 @@ title: Links
 ## Researcher's blog
 
 1. [**Dr. I.-H. Lee**](http://incredible.egloos.com/)
+1. [**Dr. Ji-Sang Park**](https://sites.google.com/site/jsparkphys/)
 1. [**Dr. D.-H. Choe**](https://sites.google.com/site/dhchoeprofile/)
 1. [**Dr. S. Kim**](https://frssp.github.io/)
