@@ -1,5 +1,5 @@
 ## Research experience
-- **Research associate (graduate course)**, *Mar. 2013 - Aug. 2018*, KAIST, Daejeon, Republic of Korea  
+- **Research assistant)**, *Mar. 2013 - Aug. 2018*, KAIST, Daejeon, Republic of Korea  
   Advisored by prof. K. J. Chang  
   * First-principles calculations and inverse materials design
 
