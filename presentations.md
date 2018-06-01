@@ -39,8 +39,8 @@ title: Presentation
 ## 2014
 
 1. **W. H. Han**, Young Jun Oh, and Kee Joo Chang, **"The electronic properties of oxygen interstitial defects in amorphous In-Ga-Zn-O semiconductors"**(Oral), The 17th International Symposium Physics of semiconductors and Applications, Jeju, Korea [Dec, 7-11, 2014]
+1. **W. H. Han**, Young Jun Oh, and Kee Joo Chang, **"The electronic properties of oxygen interstitial defects in amorphous In-Ga-Zn-O semiconductors"**(Poster), The 17th Asian Workshop on First-Principles Electronic Structure Calculations, Seoul, Korea [Nov, 3-5, 2014]
 1. **W. H. Han**, Young Jun Oh, and Kee Joo Chang, **"Hybrid functional calculations for the capture process of electrons by oxygen interstitial defects in amorphous In-Ga-Zn-O semiconductors"**(Oral), 2014 Korean Physics Society fall meeting, Gwangju, Korea [Oct, 22-24, 2014]
-1.**W. H. Han**, Young Jun Oh, and Kee Joo Chang, **"The electronic properties of oxygen interstitial defects in amorphous In-Ga-Zn-O semiconductors"**(Poster), The 17th Asian Workshop on First-Principles Electronic Structure Calculations, Seoul, Korea [Nov, 3-5, 2014]
 1. Young Jun Oh, **W. H. Han**, Hyeon-Kyun Noh, and K. J. Chang, **"Role of oxygen-related defects in the instability of amorphous In-Ga-Zn-O based thin film transistors"**(Poster), The 32nd International Conference on the Physics of Semiconductors, Austin, TX, USA [Aug, 10-15, 2014]
 1. **W. H. Han**, Young Jun Oh, and Kee Joo Chang, **"The electronic properties of oxygen interstitial defects in amorphous In-Ga-Zn-O semiconductors"**(Poster), The 10th KIAS Electronic Structure Calculation Workshop, Seoul, Korea [Jun, 19-20, 2014]
 1. **W. H. Han**, Young Jun Oh, and Kee Joo Chang, **"The electronic properties of oxygen interstitial defects in amorphous In-Ga-Zn-O semiconductors"**(Oral), 2014 Korean Physics Society spring meeting, Deajeon, Korea [Apr, 23-25, 2014]
