@@ -2,20 +2,9 @@
 title: Links
 ---
 
-## University
+## University / Institute
 
 1. [**Korea Advanced Institute of Science and Technology (KAIST)**](http://www.kaist.ac.kr/html/en/index.html)
-
-## Crystal symmetry
-
-1. [**FINDSYM**](http://stokes.byu.edu/iso/findsym.php)
-1. [**Structure converter**](http://www.cryst.ehu.es/cgi-bin/cryst/programs/mcif2vesta/index.php)
-
-## Tools
-
-1. [**BandUP**](https://www.ifm.liu.se/theomod/compphys/band-unfolding/)
-1. [**IR/Raman spectra**](https://github.com/JMSkelton/Phonopy-Spectroscopy)
-1. [**ModeMap**](https://github.com/JMSkelton/ModeMap)
 
 ## Material repository
 
@@ -24,6 +13,13 @@ title: Links
 1. [**NOMAD**](https://www.nomad-coe.eu/)
 1. [**OQMD**](http://oqmd.org/)
 
+## Useful tools
+
+1. [**BandUP**](https://www.ifm.liu.se/theomod/compphys/band-unfolding/)
+1. [**IR/Raman spectra**](https://github.com/JMSkelton/Phonopy-Spectroscopy)
+1. [**ModeMap**](https://github.com/JMSkelton/ModeMap)
+1. [**FINDSYM**](http://stokes.byu.edu/iso/findsym.php)
+1. [**Structure converter**](http://www.cryst.ehu.es/cgi-bin/cryst/programs/mcif2vesta/index.php)
 
 ## Useful tools for paperwork
 
@@ -34,14 +30,12 @@ title: Links
 
 1. [**점프투파이썬**](https://wikidocs.net/28)
 
-
 ## Calculation tips
 
 1. [**VASP & Phonopy**](https://www.slideshare.net/jmskelton/phonons-phonopy-pro-tips-2015)
 1. [**VASP tips**](https://www.slideshare.net/jmskelton/vasp-some-accumulated-wisdom)
 1. [**VASP & Wannier90**](https://www.slideshare.net/jmskelton/vasp-and-wannier90-a-quick-tutorial)
 1. [**VASP & Wannier90 2**](https://www.slideshare.net/jmskelton/wannier90-band-structures-tips-and-tricks)
-
 
 ## Researcher's blog
 
