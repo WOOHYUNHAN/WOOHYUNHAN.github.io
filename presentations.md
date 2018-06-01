@@ -44,5 +44,5 @@ title: Presentation
 1. Young Jun Oh, **W. H. Han**, Hyeon-Kyun Noh, and K. J. Chang, **"Role of oxygen-related defects in the instability of amorphous In-Ga-Zn-O based thin film transistors"**(Poster), The 32nd International Conference on the Physics of Semiconductors, Austin, TX, USA [Aug, 10-15, 2014]
 1. **W. H. Han**, Young Jun Oh, and Kee Joo Chang, **"The electronic properties of oxygen interstitial defects in amorphous In-Ga-Zn-O semiconductors"**(Poster), The 10th KIAS Electronic Structure Calculation Workshop, Seoul, Korea [Jun, 19-20, 2014]
 1. **W. H. Han**, Young Jun Oh, and Kee Joo Chang, **"The electronic properties of oxygen interstitial defects in amorphous In-Ga-Zn-O semiconductors"**(Oral), 2014 Korean Physics Society spring meeting, Deajeon, Korea [Apr, 23-25, 2014]
-1. **W. H. Han**, Young Jun Oh, and Kee Joo Chang, **"The electronic properties of oxygen-related defects in amorphous In-Ga-Zn-O semiconductors"**(Poster), 2014 제10차 강유전체연합심포지엄, 무주, Korea [Feb, 16-17, 2014]
+1. **W. H. Han**, Young Jun Oh, and Kee Joo Chang, **"The electronic properties of oxygen-related defects in amorphous In-Ga-Zn-O semiconductors"**(Poster), 제10차 강유전체연합심포지엄, 무주, Korea [Feb, 16-17, 2014]
 
