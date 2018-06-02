@@ -20,6 +20,7 @@ title: Links
 1. [**ModeMap**](https://github.com/JMSkelton/ModeMap)
 1. [**FINDSYM**](http://stokes.byu.edu/iso/findsym.php)
 1. [**Structure converter**](http://www.cryst.ehu.es/cgi-bin/cryst/programs/mcif2vesta/index.php)
+1. [**Phonon Unfolding**](https://www.sciencedirect.com/science/article/pii/S0010465516302752)
 
 ## Useful tools for paperwork
 
