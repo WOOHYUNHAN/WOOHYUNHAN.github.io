@@ -16,7 +16,7 @@ title: Links
 ## Useful tools
 
 1. [**BandUP**](https://www.ifm.liu.se/theomod/compphys/band-unfolding/)
-1. [**IR/Raman spectra**](https://github.com/JMSkelton/Phonopy-Spectroscopy)
+1. [**IR/Raman spectra**](https://github.com/JMSkelton/Phonopy-Spectroscopy)/[**Raman-sc**](https://github.com/raman-sc/VASP)
 1. [**ModeMap**](https://github.com/JMSkelton/ModeMap)
 1. [**FINDSYM**](http://stokes.byu.edu/iso/findsym.php)
 1. [**Structure converter**](http://www.cryst.ehu.es/cgi-bin/cryst/programs/mcif2vesta/index.php)
