@@ -6,12 +6,13 @@ title: Links
 
 1. [**Korea Advanced Institute of Science and Technology (KAIST)**](http://www.kaist.ac.kr/html/en/index.html)
 
-## Material repository
+## Materials repository / Materials design
 
 1. [**Materials project**](https://www.materialsproject.org/)
 1. [**AFLOW**](http://www.aflow.org/aflow_online.html)
 1. [**NOMAD**](https://www.nomad-coe.eu/)
 1. [**OQMD**](http://oqmd.org/)
+1. [**HACKING MATERIALS**](https://hackingmaterials.com/2013/12/22/about/)
 
 ## Useful tools
 
