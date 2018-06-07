@@ -15,10 +15,10 @@
 ### Awards
 
 1. **Best Oral Presentation Awad**, *2017*    
-  *A new phosphorus allotrope discovered by ab initio materials design*, Korea Physics Society   
+  *A new phosphorus allotrope discovered by ab initio materials design*, The Korean Physical Society   
 
 1. **Best Oral Presenatation Award**, *2017*   
-  *Pressure-induced transition pathway from alpha-B to gamma-B*, Korea Physics Society   
+  *Pressure-induced transition pathway from alpha-B to gamma-B*, The Korean Physical Society   
 
 1. **Best Oral Presentation Award**, *2014*  
-  *The electronic properties of oxygen interstitial defects in a-IGZO*, Korea Physics Society   
+  *The electronic properties of oxygen interstitial defects in a-IGZO*, The Korean Physicsal Society   
