@@ -5,3 +5,6 @@
 - **B.S. in Physics**, *Feb.2010 - Mar.2013*, **KAIST**, Daejeon, Republic of Korea  
   - ***Summa cum laude*** 
   - *Dean’s List of college of natural sciences, KAIST*  
+
+- **Daejeon Science High School**, *Mar.2008 - Feb.2010*, Daejeon, Rebuplic of Korea
+  - *An early graduation*
