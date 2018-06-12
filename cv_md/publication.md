@@ -19,7 +19,7 @@
 1.  **W. H. Han**, Y. J. Oh, D.-H. Choe, S. Kim, I.-H. Lee, K. J. Chang, **"Three-dimensional buckled honeycomb boron lattice with vacancies as an intermediate phase on the transition pathway from α-B to γ-B."**, [*NPG Asia Materials* 9, e400](https://www.nature.com/articles/am201798) (2017).
 1.  S. Kim, **W. H. Han**, I.-H. Lee, K. J. Chang, **"Boron Triangular Kagome Lattice with Half-Metallic Ferromagnetism"**, [*Sci. Rep.* 7, 7279](https://www.nature.com/articles/s41598-017-07518-9) (2017).
 1.  S. Cho, S. H. Kang, H. S. Yu, H. W. Kim, W. Ko, S. W. Hwang, **W. H. Han**, D.-H. Choe, K. J. Chang, Y. H. Lee, H. Yang, S. W. Kim, **"Te vacancy-driven superconductivity in orthorhombic molybdenum ditelluride."**, [*2D Mater.* 4, 021030](http://iopscience.iop.org/article/10.1088/2053-1583/aa735e) (2017).
-1.  **W. H. Han**, S. Kim, I.-H. Lee, K. J. Chang, **"A New Phosphorus Allotrope with Direct Band Gap and High Mobility"**, [*J. Phys. Chem. Lett.* 8, 4627](https://pubs.acs.org/doi/10.1021/acs.jpclett.7b02153) (2017).
+1.  **W. H. Han**, S. Kim, I.-H. Lee, K. J. Chang, **Prediction of Green Phosphorus with Tunable Direct Band Gap and High Mobility""**, [*J. Phys. Chem. Lett.* 8, 4627](https://pubs.acs.org/doi/10.1021/acs.jpclett.7b02153) (2017).
 
 ### 2016
 

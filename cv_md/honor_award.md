@@ -14,7 +14,7 @@
 
 ### Awards
 
-1. **Best Oral Presentation Awad**, *2017*    
+1. **Best Oral Presentation Award**, *2017*    
   *A new phosphorus allotrope discovered by ab initio materials design*, The Korean Physical Society   
 
 1. **Best Oral Presenatation Award**, *2017*   
