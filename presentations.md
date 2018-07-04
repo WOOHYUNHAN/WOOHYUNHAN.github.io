@@ -3,7 +3,8 @@ title: Presentation
 ---
 
 ## 2018
-
+1. **W. H. Han**, Sunghyun Kim, In-Ho Lee, and K. J. Chang, [**"A new phosphorus allotrope with direct band gap and high mobility"**](http://www.ispsa.or.kr/sub2/sub2_01.php)(Oral), The 19th International Symposium on the Physics of Semiconductors and Applications (ISPSA), Jeju, Korea, [July, 4, 2018]
+1. **W. H. Han**, Sunghyun Kim, In-Ho Lee, and K. J. Chang, [**"Green phosphorus with tunable direct band gap and high electron mobility"**](http://events.kias.re.kr/h/ESCW2018/?pageNo=3366)(Oral), The 13th KIAS Electronic Structure Calculation Workshop, Seoul, Korea, [June, 21, 2018]
 1. **W. H. Han**, Sunghyun Kim, In-Ho Lee, and K. J. Chang, [**"Strong electron-phonon coupling and flat band ferromagnetism in hole-doped boron triangular Kagome lattice"**](http://www.kps.or.kr/111110)(Oral), 2018 Korean Physics Society spring meeting, Daejeon, Korea [Apr, 25-27, 2018]
 1. **W. H. Han**, Sunghyun Kim, In-Ho Lee and K. J. Chang, [**"Prediction of a new phosphorus allotrope with tunable direct band gap and high mobility"**](https://www.aps.org/meetings/march/about.cfm)(Oral), 2018 APS March meeting, Los Angeles, California, USA [Mar, 5-9, 2018]
 
