@@ -11,7 +11,7 @@
 ### 2018
 
 1.  H.-J. Sung, **W. H. Han**, I.-H. Lee, and K. J. Chang, **"Superconducting open-framework allotrope of silicon at ambient pressure"**, [*Phys. Rev. Lett.* 120, 157001 (2018)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.157001) (2018)
-1.  J.E. Wang, **W.H. Han**, K.J. Chang, Y.H. Jung, and D.K. Kim, [*submitted*](http://kaist.ac.kr) (2018).
+1.  J.E. Wang, **W.H. Han**, K.J. Chang, Y.H. Jung, and D.K. Kim, [*accepted*](http://kaist.ac.kr) (2018).
 1.  G.-M. Kim, H.-J. Sung, **W.H. Han**, I.-H. Lee, and K.J. Chang, [*submitted*](http://kaist.ac.kr) (2018). 
 1.  T. H. Lee, J. W. Shim, Y. W. Kim, H.-J. Sung, J. S. Goo, **W. H. Han**, K. J. Chang and T. G. Kim [*submitted*](http://kaist.ac.kr) (2018).
 
