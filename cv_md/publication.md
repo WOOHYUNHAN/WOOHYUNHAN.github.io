@@ -11,7 +11,7 @@
 ### 2018
 
 1.  H.-J. Sung, **W. H. Han**, I.-H. Lee, and K. J. Chang, **"Superconducting open-framework allotrope of silicon at ambient pressure"**, [*Phys. Rev. Lett.* 120, 157001 (2018)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.157001) (2018)
-1.  J.E. Wang, **W.H. Han**, K.J. Chang, Y.H. Jung, and D.K. Kim, [*accepted*](http://kaist.ac.kr) (2018).
+1.  J.E. Wang, **W.H. Han**, K.J. Chang, Y.H. Jung, and D.K. Kim, **"New insight into Na intercalation with Li substitution on alkali site and high performance of O3-type layered cathode material for sodium ion batteries"** [*J. Mater. Chem. A*](https://pubs.rsc.org/en/content/articlelanding/2018/ta/c8ta06159a#!divAbstract) (2018).
 1.  G.-M. Kim, H.-J. Sung, **W.H. Han**, I.-H. Lee, and K.J. Chang, [*submitted*](http://kaist.ac.kr) (2018). 
 1.  T. H. Lee, J. W. Shim, Y. W. Kim, H.-J. Sung, J. S. Goo, **W. H. Han**, K. J. Chang and T. G. Kim [*submitted*](http://kaist.ac.kr) (2018).
 
