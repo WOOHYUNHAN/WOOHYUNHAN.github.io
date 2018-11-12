@@ -11,7 +11,7 @@
 - **Atomic potential generation using ML algorithm**     
   [aenet (one of the contributors)](http://ann.atomistic.net/Contributors/)    
 
--**Machine-learning tools**
+- **Machine-learning tools**  
   [Tensorflow(intermediated)](https://www.tensorflow.org/)
 
 - **Programming**  
