@@ -2,18 +2,16 @@
 
 ### In preparation
 
-1. **W.H. Han**, S. Kim, I.-H. Lee, and K.J. Chang, **"Fermi Surface Nesting and Electron-Phonon Interactions of Flat Band in Triangular Kagome Lattice,"** *In preparation*, (2018).
-1. **W.H. Han** and K.J. Chang, **"Quantum Spin Hall-like Phononic States in Bilayer van der Waals Structure"**, *In preparation*, (2018).
-1. **W.H. Han** and K.J. Chang, **"Topological invariants in phononic systems: PhononTB"**, *In preparation*, (2018).
-1. **W.H. Han**, I.-H. Lee, and K.J. Chang, **"Construction of high-dimensional artificial neural network potential for silicon, carbon, and boron,"** *In preparation*, (2018).
-1. I.-H. Lee, **W.H. Han**, J. Lee, and K.J. Chang, *In preparation*, (2018).
+1. **W.H. Han**, S. Kim, I.-H. Lee, and K.J. Chang, **"A Metal-Insulator Transition via Wigner Crystallization in Boron Triangular Kagome Lattice"** [*arXiv*, (2019)](https://arxiv.org/abs/1902.08390)
+1. **W.H. Han** and K.J. Chang, **"Quantum Spin Hall-like Phononic States in van der Waals Bilayers with Antiferromagnetic Ordering"**, [*arXiv* (2019)](http://kaist.ac.kr)
+1.  G.-M. Kim, H.-J. Sung, **W.H. Han**, I.-H. Lee, and K.J. Chang, **"Self-Encapsulation of Silicene in Cubic Diamond Si: Topological Semimetal in Covalent Bonding Networks"** [*J.Phys.Chem.C* (2019)](https://pubs.acs.org/doi/10.1021/acs.jpcc.8b10475) 
+1. M. Kim, J. Kim, I.-H Lee, **W.H.Han**, Y.C. Park, W.Y. Kim, B. Kim, and J. Suh **"Quantum transport properties of single-crystalline Ag2Se0.5Te0.5 nanowire as a new topological material"**, [*Nanoscale*, accepted (2019)](http://kaist.ac.kr)
+1.  T. H. Lee, J. W. Shim, Y. W. Kim, H.-J. Sung, J. S. Goo, **W. H. Han**, K. J. Chang and T. G. Kim [*submitted*](http://kaist.ac.kr) (2018).
 
 ### 2018
 
 1.  H.-J. Sung, **W. H. Han**, I.-H. Lee, and K. J. Chang, **"Superconducting open-framework allotrope of silicon at ambient pressure"**, [*Phys. Rev. Lett.* 120, 157001 (2018)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.157001) (2018)
-1.  J.E. Wang, **W.H. Han**, K.J. Chang, Y.H. Jung, and D.K. Kim, **"New insight into Na intercalation with Li substitution on alkali site and high performance of O3-type layered cathode material for sodium ion batteries"** [*J. Mater. Chem. A*](https://pubs.rsc.org/en/content/articlelanding/2018/ta/c8ta06159a#!divAbstract) (2018).
-1.  G.-M. Kim, H.-J. Sung, **W.H. Han**, I.-H. Lee, and K.J. Chang, [*submitted*](http://kaist.ac.kr) (2018). 
-1.  T. H. Lee, J. W. Shim, Y. W. Kim, H.-J. Sung, J. S. Goo, **W. H. Han**, K. J. Chang and T. G. Kim [*submitted*](http://kaist.ac.kr) (2018).
+1.  J.E. Wang, **W.H. Han**, K.J. Chang, Y.H. Jung, and D.K. Kim, **"New insight into Na intercalation with Li substitution on alkali site and high performance of O3-type layered cathode material for sodium ion batteries"** [*J. Mater. Chem. A*](https://pubs.rsc.org/en/content/articlehtml/2018/ta/c8ta06159a) (2018). 
 
 ### 2017
 

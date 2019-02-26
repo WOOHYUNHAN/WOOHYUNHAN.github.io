@@ -1,7 +1,7 @@
 ## Woo Hyun Han (W.H.Han)  
 Master candidate of Law
-School of law, [Seoul National University (SNU)](http://law.snu.ac.kr/)
-SNU, Gwanak-ro, Gwanak-gu, Seoul 08826, Republic of Korea
+School of law, [Seoul National University (SNU)](http://law.snu.ac.kr/)  
+SNU, Gwanak-ro, Gwanak-gu, Seoul 08826, Republic of Korea 
 <!--
 Postdoctoral research associate at [Theorerical Condensed Matter Physics Group](http://taehae.kaist.ac.kr/)  
 Department of Physics, [Korea Advanced Institute of Science and Technology (KAIST)](http://www.kaist.ac.kr/html/en/index.html)  
