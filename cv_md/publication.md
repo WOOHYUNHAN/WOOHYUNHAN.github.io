@@ -1,6 +1,6 @@
 ## Publications
 
-### In preparation
+### 2019
 
 1. **W.H. Han**, S. Kim, I.-H. Lee, and K.J. Chang, **"A Metal-Insulator Transition via Wigner Crystallization in Boron Triangular Kagome Lattice"** [*arXiv*, (2019)](https://arxiv.org/abs/1902.08390)
 1. **W.H. Han** and K.J. Chang, **"Quantum Spin Hall-like Phononic States in van der Waals Bilayers with Antiferromagnetic Ordering"**, [*arXiv* (2019)](http://kaist.ac.kr)
