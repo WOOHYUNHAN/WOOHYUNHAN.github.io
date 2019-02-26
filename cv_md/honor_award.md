@@ -2,6 +2,9 @@
 
 ### Honors
 
+1. **SNU Foundation Scholarship**, *2019*
+  Seoul National University Foundation 
+
 1. **Pre-doctoral Fellow of Physics at KAIST**, *2017*   
   Korea Advanced Institute of Science and Technology  
 
