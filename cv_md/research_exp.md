@@ -1,5 +1,5 @@
 ## Research experience
-- **Postdoctoral Research Associate**, *Sep. 2018 - present*, **KAIST**, Daejeon, Republic of Korea  
+- **Postdoctoral Research Associate**, *Sep. 2018 - Feb. 2019*, **KAIST**, Daejeon, Republic of Korea  
   Advisored by prof. K. J. Chang
 
 - **Research assistant**, *Mar. 2013 - Aug. 2018*, **KAIST**, Daejeon, Republic of Korea  
