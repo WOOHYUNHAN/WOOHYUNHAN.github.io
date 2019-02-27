@@ -1,5 +1,5 @@
 ## Woo Hyun Han (W.H.Han)  
-Master candidate of Law
+M.S. candidate of Law  
 School of law, [Seoul National University (SNU)](http://law.snu.ac.kr/)  
 SNU, Gwanak-ro, Gwanak-gu, Seoul 08826, Republic of Korea 
 <!--
