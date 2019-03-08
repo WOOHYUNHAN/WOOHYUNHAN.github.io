@@ -4,8 +4,8 @@
 
 1. **W.H. Han**, S. Kim, I.-H. Lee, and K.J. Chang, **"A Metal-Insulator Transition via Wigner Crystallization in Boron Triangular Kagome Lattice"** [*arXiv*](https://arxiv.org/abs/1902.08390) (2019)
 1. **W.H. Han** and K.J. Chang, **"Quantum Spin Hall-like Phononic States in van der Waals Bilayers with Antiferromagnetic Ordering"**, [*arXiv*](http://kaist.ac.kr) (2019)
-1.  G.-M. Kim, H.-J. Sung, **W.H. Han**, I.-H. Lee, and K.J. Chang, **"Self-Encapsulation of Silicene in Cubic Diamond Si: Topological Semimetal in Covalent Bonding Networks"** [*J.Phys.Chem.C*](https://pubs.acs.org/doi/10.1021/acs.jpcc.8b10475) (2019)
-1. M. Kim, J. Kim, I.-H Lee, **W.H.Han**, Y.C. Park, W.Y. Kim, B. Kim, and J. Suh **"Quantum transport properties of single-crystalline Ag2Se0.5Te0.5 nanowire as a new topological material"**, [*Nanoscale*](http://kaist.ac.kr) (2019)
+1.  G.-M. Kim, H.-J. Sung, **W.H. Han**, I.-H. Lee, and K.J. Chang, **"Self-Encapsulation of Silicene in Cubic Diamond Si: Topological Semimetal in Covalent Bonding Networks"** [*J.Phys.Chem.C 123, 1839*](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.8b10475) (2019)
+1. M. Kim, J. Kim, I.-H Lee, **W.H.Han**, Y.C. Park, W.Y. Kim, B. Kim, and J. Suh **"Quantum transport properties of single-crystalline Ag2Se0.5Te0.5 nanowire as a new topological material"**, [*Nanoscale*](https://pubs.rsc.org/en/content/articlelanding/2019/nr/c9nr00288j#!divAbstract) (2019)
 1.  T. H. Lee, J. W. Shim, Y. W. Kim, H.-J. Sung, J. S. Goo, **W. H. Han**, K. J. Chang and T. G. Kim [*submitted*](http://kaist.ac.kr) (2019).
 
 ### 2018
