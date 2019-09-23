@@ -2,6 +2,9 @@
 
 ### Honors
 
+1. **Hanwha Scholarship**, *2019*, 
+  Hanwha
+
 1. **SNU Foundation Scholarship**, *2019*  
   Seoul National University Foundation 
 
