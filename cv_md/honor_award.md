@@ -20,7 +20,7 @@
 
 ### Awards
 
-1. **특허법원장상(1등)**, *2019* 
+1. **특허법원장상(1등)**, *2019*   
   *제6회 특허소송 변론대회*, [특허법원](http://www.lec.co.kr/news/articleView.html?idxno=712449)
 
 1. **Best Oral Presentation Award**, *2017*    
